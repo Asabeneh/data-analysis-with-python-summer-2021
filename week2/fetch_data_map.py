@@ -2,6 +2,7 @@ import requests
 from pprint import pprint
 
 url = 'https://api.thecatapi.com/v1/breeds'
+# get, post, put, delete
 response = requests.get(url)
 cats = response.json()
 
