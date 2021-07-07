@@ -51,10 +51,23 @@ WEEK 4:
 - Datasets
   - https://github.com/Asabeneh/30-Days-Of-Python/tree/master/data
 
-WEEK 5:
+## WEEK 5:
+
+- Exercise Session
+
+
+## WEEK 6:
+
 - Numpy
-- Pandas
+
+## WEEK 7:
+
 - Data Visualization (Matplotlip)
+
+## WEEK 8:
+
+- Pandas
+
 
 ## Reference
 
